@@ -1,0 +1,3 @@
+exclude:
+  - staging
+delete_closed_pr: true
